@@ -1,15 +1,11 @@
 # Hi, I'm Arhan! 👋
 
-I'm a freshman Mathematics student at Bilkent University.
-
-I'm interested in Computer Science and currently exploring the field with the goal of developing my skills in programming and software development.
+I'm a freshman student at Bilkent University.
 
 ## About Me
 
-- 🎓 Freshman Mathematics student at Bilkent.
-- 💻 Interested in Computer Science.
-- 🧩 Interested in problem solving, algorithms, and computational thinking
-- 📐 I enjoy applying mathematical and analytical thinking to programming.
+- 🎓 Mathematics student at Bilkent.
+- 💻 Interested in Computer Science; problem solving, algorithms, and analytical thinking.
 - 🚀 Currently working on improving my programming skills and learning more about the field of Computer Science
 
 ## Why Computer Science?
@@ -24,8 +20,7 @@ I'm particularly interested in especially areas involving algorithms, logical re
 
 ## Goals
 
-- Build a strong foundation in Computer Science
-- Improve my programming skills
+- Build a strong foundation in Computer Science and improve my programming skills
 - Work on personal and academic projects
 - Explore different areas of Computer Science and find the ones that interest me most
 
