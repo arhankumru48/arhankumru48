@@ -1,12 +1,12 @@
 # Hi, I'm Arhan! 👋
 
-I'm a second year Mathematics student at Bilkent University.
+I'm a freshman Mathematics student at Bilkent University.
 
 I'm interested in Computer Science and currently exploring the field with the goal of developing my skills in programming and software development.
 
 ## About Me
 
-- 🎓 Second year Mathematics student at Bilkent.
+- 🎓 Freshman Mathematics student at Bilkent.
 - 💻 Interested in Computer Science.
 - 🧩 Interested in problem solving, algorithms, and computational thinking
 - 📐 I enjoy applying mathematical and analytical thinking to programming.
